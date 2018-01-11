@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">抢红包</string>
+
+    <string name="service_name">微信抢红包辅助程序</string>
+    <string name="wechat_red_packet">[微信红包]</string>
+    <string name="receive_red_packet">领取红包</string>
+    <string name="open_red_packet">拆红包</string>
+
+    <string name="switcher_close">关</string>
+    <string name="switcher_open">开</string>
+
+    <string name="dialog_hint">提示</string>
+    <string name="dialog_open_message">抢红包服务尚未运行,是否去开启?</string>
+    <string name="dialog_stop_message">是否要停止抢红包服务?</string>
+    <string name="dialog_server_open">去开启</string>
+    <string name="dialog_cancle">取消</string>
+    <string name="dialog_server_stop">去停止</string>
+
+    <string name="description">1.微信抢红包服务,目前微信版本6.6.1测试通过.
+        \n2.华为手机测试通过.</string>
+</resources>
